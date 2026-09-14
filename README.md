@@ -20,4 +20,5 @@ More details, implementation notes, and results can be found in the individual r
 
 ## 📫 Connect With Me
 
-**LinkedIn:** linkedin.com/in/zaryan-syed
+- **Email:** [zaryan@uoguelph.ca](mailto:zaryan@uoguelph.ca)
+- **LinkedIn:** [linkedin.com/in/zaryan-syed-1625b4202](https://www.linkedin.com/in/zaryan-syed-1625b4202/)
